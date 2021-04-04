@@ -1,0 +1,11 @@
+{
+  "name": "countUpPractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.13.14",
+    "@babel/core": "^7.13.14",
+    "@babel/plugin-transform-react-jsx": "^7.13.12"
+  }
+}
